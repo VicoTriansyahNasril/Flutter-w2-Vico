@@ -1,16 +1,8 @@
-# weather_app
+Repository ini digunakan untuk memenuhi tugas Proyek 4 minggu ke 2 membuat weather App
 
-A new Flutter project.
+Vico Triansyah Nasril (221511031) D3-2A T.Informatika.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Cuplikan layar 2024-02-20 092022](https://github.com/VicoTriansyahNasril/Flutter-w2-Vico/assets/142963459/876f2fd2-2498-4f85-9d94-9757eb2c7b7a)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Cuplikan layar 2024-02-20 092032](https://github.com/VicoTriansyahNasril/Flutter-w2-Vico/assets/142963459/fa540df4-10f1-4710-a255-21fc3a72b408)
